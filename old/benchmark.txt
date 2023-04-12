@@ -1,0 +1,120 @@
+streamer/hangup
+min -  nginx: 1.5552726 dc: 30.00197951
+p10 -  nginx: 36.660242 dc: 127.713349
+avg -  nginx: 52.869590458437486 dc: 164.4276420268421
+p50 -  nginx: 54.779422499999995 dc: 160.731411
+p90 -  nginx: 69.126924 dc: 201.580101
+max -  nginx: 84.580876 dc: 382.839865
+
+system/dir
+min -  nginx: 5.611266 dc: 5.386178
+p10 -  nginx: 7.317242 dc: 5.578959
+avg -  nginx: 22.699759693548383 dc: 10.0883632
+p50 -  nginx: 15.837797 dc: 8.667299
+p90 -  nginx: 41.597696 dc: 13.44179
+max -  nginx: 108.50361 dc: 35.855205
+
+streamer/addIceCandidate
+min -  nginx: 3.01226379 dc: 7.372507
+p10 -  nginx: 6.317021 dc: 9.88682
+avg -  nginx: 42.38350446319924 dc: 54.31847161893202
+p50 -  nginx: 16.079849 dc: 52.805767
+p90 -  nginx: 99.260955 dc: 101.025637
+max -  nginx: 523.767003 dc: 360.251387
+
+streamer/getIceCandidate
+min -  nginx: 3.00636603 dc: 7.850162
+p10 -  nginx: 5.756627 dc: 9.340382
+avg -  nginx: 37.38828408597402 dc: 32.10540172727273
+p50 -  nginx: 13.995487 dc: 18.3960765
+p90 -  nginx: 99.279034 dc: 67.638989
+max -  nginx: 197.084862 dc: 88.347759
+
+streamer/video
+min -  nginx: 62.109304 dc: 53.805538
+p10 -  nginx: 89.65853 dc: 59.540584
+avg -  nginx: 121.07446948051945 dc: 105.60077718181816
+p50 -  nginx: 118.997009 dc: 83.40724850000001
+p90 -  nginx: 161.217768 dc: 220.965198
+max -  nginx: 220.296059 dc: 243.320771
+
+video/stop
+min -  nginx: 115.772192 dc: 136.132156
+p10 -  nginx: 143.322245 dc: 136.327801
+avg -  nginx: 165.0291093333333 dc: 154.7366616666667
+p50 -  nginx: 161.5148 dc: 152.1148855
+p90 -  nginx: 188.313026 dc: 177.372803
+max -  nginx: 208.060493 dc: 177.618084
+
+video/start
+min -  nginx: 3.02638148 dc: 14.48116
+p10 -  nginx: 18.461784 dc: 16.531899
+avg -  nginx: 37.11971926871796 dc: 26.51642741666667
+p50 -  nginx: 23.310439 dc: 23.433405999999998
+p90 -  nginx: 108.214738 dc: 42.059535
+max -  nginx: 238.121527 dc: 42.09746
+
+system/browser
+min -  nginx: 7.254298 dc: 10.407355
+p10 -  nginx: 7.613102 dc: 10.750151
+avg -  nginx: 11.2350228974359 dc: 14.766889083333332
+p50 -  nginx: 9.041716 dc: 11.7768045
+p90 -  nginx: 19.042316 dc: 21.539775
+max -  nginx: 35.846686 dc: 29.996311
+
+clean-browser
+min -  nginx: 12 dc: 10
+p10 -  nginx: 13 dc: 10
+avg -  nginx: 57.07692307692308 dc: 30.333333333333332
+p50 -  nginx: 23 dc: 18
+p90 -  nginx: 52 dc: 134
+max -  nginx: 1030 dc: 134
+
+change-resolution
+min -  nginx: 57 dc: 49
+p10 -  nginx: 278 dc: 55
+avg -  nginx: 312.2972972972973 dc: 211.3
+p50 -  nginx: 316 dc: 278.0
+p90 -  nginx: 359 dc: 359
+max -  nginx: 369 dc: 359
+
+update-display-scale
+min -  nginx: 36 dc: 29
+p10 -  nginx: 55 dc: 32
+avg -  nginx: 69.92307692307692 dc: 52.81818181818182
+p50 -  nginx: 72 dc: 57
+p90 -  nginx: 84 dc: 71
+max -  nginx: 104 dc: 72
+
+system-action
+min -  nginx: 33 dc: 32
+p10 -  nginx: 34 dc: 32
+avg -  nginx: 41.53846153846154 dc: 37.18181818181818
+p50 -  nginx: 41 dc: 36
+p90 -  nginx: 48 dc: 44
+max -  nginx: 65 dc: 50
+
+paste-data
+min -  nginx: 0 dc: 0
+p10 -  nginx: 0 dc: 0
+avg -  nginx: 0.5641025641025641 dc: 0.6666666666666666
+p50 -  nginx: 1 dc: 1.0
+p90 -  nginx: 1 dc: 1
+max -  nginx: 1 dc: 2
+
+update-proxy
+min -  nginx: 13 dc: 10
+p10 -  nginx: 15 dc: 10
+avg -  nginx: 36.1025641025641 dc: 20.333333333333332
+p50 -  nginx: 21 dc: 13.5
+p90 -  nginx: 110 dc: 37
+max -  nginx: 121 dc: 78
+
+request-browser-launch
+min -  nginx: 119 dc: 182
+p10 -  nginx: 152 dc: 189
+avg -  nginx: 212.5 dc: 294.1666666666667
+p50 -  nginx: 173.0 dc: 216.5
+p90 -  nginx: 263 dc: 620
+max -  nginx: 738 dc: 697
+

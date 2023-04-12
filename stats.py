@@ -13,6 +13,7 @@ def p50(arr):
 
 def p10(arr):
     sorted_list = sorted(arr)
+    # print(sorted_list)
     n = len(sorted_list)
 
     p10_index = int(n * 10 / 100)
@@ -21,6 +22,7 @@ def p10(arr):
 
 def p90(arr):
     sorted_list = sorted(arr)
+    # print(sorted_list)
     n = len(sorted_list)
 
     p90_index = int(n * 90 / 100)
